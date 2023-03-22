@@ -249,6 +249,21 @@ The patch based approach requires another conda environment compared the two MIL
 4. **Other settings**: [tutorial](tutorials/other_settings.md), including stain unmixing (and saffron removal), color normalization or data augmentation.
 
 
+## [Reference] - suhyeon
+1. WSI preparation
+
+
+2. Label preparation
+- https://scienceparkstudygroup.github.io/rna-seq-lesson/08-cluster-analysis/index.html
+- https://www.gene-quantification.de/haeseleer-bioinf-2005.pdf
+
+
+3. Deep learning
+
+4. HistCNN
+- https://github.com/javadnoorb/HistCNN
+- https://www.nature.com/articles/s41467-020-20030-5
+
 
 
 
