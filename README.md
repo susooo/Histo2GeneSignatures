@@ -259,7 +259,9 @@ The patch based approach requires another conda environment compared the two MIL
 
 
 3. Deep learning
-
+- https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
+				
+				
 4. HistCNN
 - https://github.com/javadnoorb/HistCNN
 - https://www.nature.com/articles/s41467-020-20030-5
