@@ -9,3 +9,16 @@
 - [Pan-cancer integrative histology-genomic analysis via multimodal deep learning](https://pubmed.ncbi.nlm.nih.gov/35944502/)
 
 - [Interpretable deep learning model to predict the molecular classification of endometrial cancer from haematoxylin and eosin-stained whole-slide images: a combined analysis of the PORTEC randomised trials and clinical cohorts](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00210-2/fulltext)
+
+
+WSI preparation
+
+Label preparation
+
+https://scienceparkstudygroup.github.io/rna-seq-lesson/08-cluster-analysis/index.html
+https://www.gene-quantification.de/haeseleer-bioinf-2005.pdf
+Deep learning
+https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
+HistCNN
+https://github.com/javadnoorb/HistCNN
+https://www.nature.com/articles/s41467-020-20030-5
